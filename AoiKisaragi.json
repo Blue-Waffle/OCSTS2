@@ -1,0 +1,13 @@
+{
+  "id": "AoiKisaragi",
+  "name": "AoiKisaragi",
+  "author": "GeneratedMod",
+  "description": "Aoi Kisaragi, the Baphomet demon, Sensei of Hellschool and tactician of Asmodeus. She manipulates probability through Lunar Stance and Calculus of Ruin, combining stance-dancing with deadly debuff exploitation.",
+  "version": "1.0.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    "BaseLib"
+  ],
+  "affects_gameplay": true
+}
